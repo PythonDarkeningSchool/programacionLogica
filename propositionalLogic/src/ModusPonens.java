@@ -3,7 +3,8 @@ import java.util.Scanner;
 
 public class ModusPonens {
     public static void main(String[] args) {
-        // INFERENCE RULE
+        // INFERENCE RULE2
+
         // The mode of affirmation by affirmation
         Scanner scan = new Scanner(System.in);
 
